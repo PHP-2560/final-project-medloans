@@ -1,0 +1,8 @@
+forgiveness.prep.fund   A Forgiveness Tax Bill Function
+grow                    A Growth Function
+income.driven           A Loan Forgiveness Function
+income.driven.vector    A Vectorized Loan Forgiveness Function
+pay.per.year            A Pay Per Year Function
+payments                A Payments Function
+specialty_res           A Length of Residency Function
+specialty_salary        A Specialty Salary Function
