@@ -1,4 +1,5 @@
 #MedLoans Shiny App
+    
 ##Created by Kevin Chen and Jon Spiegel
 
 Our Shiny app is designed to help medical students explore the various loan repayment options that are available to them. We recognize that medical school is very expensive and requires proper financial planning. Since both of us are pursuing medical school after our undergraduate studies, we felt as if this app would streamline our own planning for medical school. By creating a Shiny app, we are able to explore various financial situations, loan repayment options, and specialty choices in real time.
